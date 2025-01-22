@@ -1,6 +1,0 @@
-[submodule "backend/lib/solmate"]
-	path = backend/lib/solmate
-	url = https://github.com/transmissions11/solmate
-[submodule "backend/lib/openzeppelin-contracts"]
-	path = backend/lib/openzeppelin-contracts
-	url = https://github.com/Openzeppelin/openzeppelin-contracts
